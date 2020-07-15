@@ -1,0 +1,63 @@
+/* ============================TAG SELECTORS================================ */
+a:hover {
+  color: white;
+}
+
+body {
+  background-color: #F4FAF4;
+  margin: 0;
+}
+
+img {
+  border-radius: 100%;
+  height: 180px;
+}
+
+h1 {
+  color: #228B22;
+}
+
+h3 {
+  color: #228B22;
+}
+
+hr {
+  border: dotted #a9a9a9 6px;
+  border-bottom: none;
+  margin: 40px auto;
+  width: 4%
+}
+
+/* ===========================CLASS SELECTORS=============================== */
+/* TOP SECTION */
+.top-container {
+  background-color: #E2FAE2;
+}
+
+.web {
+  text-decoration: none;
+}
+
+/* MIDDLE SECTION */
+.middle-container {
+  padding: 30px 0 50px;
+}
+
+/* BOTTOM SECTION */
+.bottom-container {
+  background-color: #E2FAE2;
+  padding: 50px;
+  text-align: center;
+}
+
+.copyright {
+  padding-top: 20px;
+  color: white;
+}
+
+.links {
+  color: #228B22;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
